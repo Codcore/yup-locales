@@ -6902,3 +6902,7 @@ yargs@^15.3.1:
     which-module "^2.0.0"
     y18n "^4.0.0"
     yargs-parser "^18.1.2"
+
+"yup-locales@https://github.com/Codcore/yup-locales":
+  version "0.0.0-development"
+  resolved "https://github.com/Codcore/yup-locales#8fa26913daf4f21cf41e4a3a19cd0d8971bd7336"
